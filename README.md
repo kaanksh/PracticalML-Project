@@ -1,6 +1,6 @@
 # Peer Graded Assignment- Practical Machine Learning Course Project
  
-## Practical Machine Learning Project Report by Akanksha Mishra, 07th May, '20
+## Report by Akanksha Mishra, 07th May, '20
 
 ## Introduction  
  Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. These type of devices are part of the quantified self movement – a group of enthusiasts who take measurements about themselves regularly to improve their health, to find patterns in their behavior, or because they are tech geeks. One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it.  
